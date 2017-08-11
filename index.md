@@ -15,9 +15,9 @@ In this page you will find weekly exercises for Fall 2017.
 
 ***
 
-### Weekly Exercise
+### Weekly Lesson and Exercise
 
-* Week 1 - <https://github.com/jpailden/rstatlab/blob/master/week1.md>
-* Week 2 - <https://github.com/jpailden/rstatlab/blob/master/week2.md>
-* Week 3 - <https://github.com/jpailden/rstatlab/blob/master/week3.md>
+* [Week 1](<https://github.com/jpailden/rstatlab/blob/master/week1.md>)
+* [Week 2](<https://github.com/jpailden/rstatlab/blob/master/week2.md>)
+* [Week 3](<https://github.com/jpailden/rstatlab/blob/master/week3.md>)
 
