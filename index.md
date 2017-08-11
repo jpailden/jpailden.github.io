@@ -34,7 +34,9 @@ This page contains the weekly laboratory lessons and exercises for Fall 2017.
 
 * Submit your completed laboratory exercise using Blackboard's Turnitin feature. Your Turnitin upload link is found on your [Blackboard](<https://bb.siue.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_35_1>) course shell under the Laboratory folder.
 
-### Weekly Lesson
+***
+
+### Weekly Materials
 
 Weekly Lesson  |  Weekly Exercise
 ---------------|-----------
