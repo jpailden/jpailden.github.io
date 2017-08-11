@@ -1,7 +1,5 @@
-<section class="page-header">
-<h1 class="title toc-ignore project-name">SIUE Statistical Classes Laboratory Page</h1>
-<h3 class="subtitle project-tagline">written by Junvie Pailden</h3>
-</section>
+SIUE Statistical Classes Laboratory Page
+=======================================
 
 Starting Fall 2017, Stat 244 and Stat 380 will be using R software for all laboratory lessons and exercises. This page contains the weekly laboratory materials. 
 
