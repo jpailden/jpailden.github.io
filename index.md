@@ -3,20 +3,25 @@ Welcome to SIUE Statistical Laboratory Page
 
 This page contains the weekly laboratory lessons and exercises for Fall 2017.
 
+> R is an open source (free) software for statistical computing and graphics. 
+
+> RStudio is a popular front-end for R, giving you a console, a scripting window, a graphics window, and an R workspace, among other options.
+
+
 ***
 #### How to download R?
 
 * On Windows, go to this [page](<https://cran.r-project.org/bin/windows/base/>) and click `Download R 3.4.1 for Windows`.
 * On Mac, go to this [page](<https://cran.r-project.org/bin/macosx/>) and click `R-3.4.1.pkg`.
 
-#### How to download Rstudio (front-end for R)?
+#### How to download Rstudio?
 
 * On Windows and Mac, go to this [page](<https://www.rstudio.com/products/rstudio/download/>) and click `Download` under `RStudio Desktop Open Source License`.
 
 ***
 ### Directions
 
-* Read and try out the R codes on the weekly lessons first before answering the week's exercise.
+* Read the weekly lessons first and try out the R codes before answering the week's exercise.
 
 * Download the week's exercise file and open the file using RStudio. Right click the link and "Save as..." to your desktop.
 
