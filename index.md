@@ -8,12 +8,12 @@ In this page you will find weekly exercises for Fall 2017.
 ***
 #### How to download R?
 
-* On Windows, click the top link “Download R 3.4.1 for Windows” on this [page](<https://cran.r-project.org/bin/windows/base/>).
-* On Mac, click the link for R-3.4.1.pkg on this [page](<https://cran.r-project.org/bin/macosx/>).
+* On Windows, go to this [page](<https://cran.r-project.org/bin/windows/base/>) and click `Download R 3.4.1 for Windows` on 
+* On Mac, go to this [page](<https://cran.r-project.org/bin/macosx/>) and click `R-3.4.1.pkg`.
 
 #### How to download Rstudio (front-end for R)?
 
-* On Windows and Mac, check the first column “RStudio Desktop Open Source License” and click “Download” at the bottom of this [page](<https://www.rstudio.com/products/rstudio/download/>).
+* On Windows and Mac, go to this [page](<https://www.rstudio.com/products/rstudio/download/>) and click `Download` under `RStudio Desktop Open Source License`.
 
 ***
 
