@@ -1,8 +1,7 @@
 theme: jekyll-theme-cayman
 
 # Setup
-title:        Southern Illinois University Edwardsville
-tagline:      Statistical Classes Laboratory Page
+title:        SIUE Statistical Classes Laboratory Page 
 baseurl:      ""
 paginate:     1
 
