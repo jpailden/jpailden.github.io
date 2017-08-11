@@ -3,7 +3,7 @@
 
 # Welcome to SIUE Statistical Laboratory Page
 
-In this page you will find weekly exercises for Fall 2017.
+This page contains the weekly laboratory lessons and exercises for Fall 2017.
 
 ***
 #### How to download R?
@@ -17,8 +17,12 @@ In this page you will find weekly exercises for Fall 2017.
 
 ***
 
-### Weekly Lesson and Exercise
+### Weekly Lesson
 
 * [Week 1](<https://github.com/jpailden/rstatlab/blob/master/week1.md>)
 * [Week 2](<https://github.com/jpailden/rstatlab/blob/master/week2.md>)
 * [Week 3](<https://github.com/jpailden/rstatlab/blob/master/week3.md>)
+
+### Weekly Exercise
+
+* [Week 1](<https://raw.githubusercontent.com/jpailden/rstatlab/master/Week1-Exercise.Rmd>)
