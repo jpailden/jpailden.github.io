@@ -11,9 +11,3 @@ author:
   name:       Junvie Pailden
   url:        http://www.siue.edu/~jpailde/ 
 
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
