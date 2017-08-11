@@ -20,7 +20,7 @@ Starting Fall 2017, Stat 244 and Stat 380 will be using R software for all labor
 
 * Read the weekly lessons first and try out the R codes before answering the week's exercise.
 
-* Download the week's exercise file and open the file using RStudio. Right click the link and "Save as..." to your desktop. In some cases, you might need to change the file extension to .rmd
+* Download the week's exercise file and open the file using RStudio. Right click the link and "Save as..." to your desktop. In some cases you might need to change the file extension to .rmd
 
 * This file type is called RMarkdown and is used widely to share and collaborate R outputs. More information is found on this [page](<http://rmarkdown.rstudio.com/articles_docx.html>).
 
