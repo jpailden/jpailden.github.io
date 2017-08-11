@@ -27,7 +27,10 @@ This page contains the weekly laboratory lessons and exercises for Fall 2017.
 
 * This file type is called RMarkdown and is used widely to share and collaborate R outputs. More information is found on this [page](<http://rmarkdown.rstudio.com/articles_docx.html>).
 
-* All R codes should be written inside the [code chunks](<http://rmarkdown.rstudio.com/authoring_rcodechunks.html>).
+    - Write your R code inside the [code chunks](<http://rmarkdown.rstudio.com/authoring_rcodechunks.html>) after each question.
+    - Write your answer comments after the `#` sign.
+    - To generate the word document output, click the button `Knit` and wait for the word document to appear.
+    - RStudio will prompt you (only once) to install the `knitr` package.
 
 * Submit your completed laboratory exercise using Blackboard's Turnitin feature. Your Turnitin upload link is found on your [Blackboard](<https://bb.siue.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_35_1>) course shell under the Laboratory folder.
 
