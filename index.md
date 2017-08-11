@@ -1,7 +1,5 @@
----
----
-
-# Welcome to SIUE Statistical Laboratory Page
+Welcome to SIUE Statistical Laboratory Page
+==================================
 
 This page contains the weekly laboratory lessons and exercises for Fall 2017.
 
