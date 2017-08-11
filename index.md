@@ -40,3 +40,6 @@ Weekly Lesson  |  Weekly Exercise
 [Week 1: R Software Introduction](<https://github.com/jpailden/rstatlab/blob/master/week1.md>) | [Exercise 1](<https://raw.githubusercontent.com/jpailden/rstatlab/master/Week1-Exercise.Rmd>)
 [Week 2: Reading Data in R](<https://github.com/jpailden/rstatlab/blob/master/week2.md>) | [Exercise 2](<https://raw.githubusercontent.com/jpailden/rstatlab/master/week2-Exercise.Rmd>)
 [Week 3: Numerical and Graphical Summary](<https://github.com/jpailden/rstatlab/blob/master/week3.md>) | Exercise 3
+
+***
+This page is maintained by [Junvie Pailden](<http://www.siue.edu/~jpailde/>). e: jpailde@siue.edu
