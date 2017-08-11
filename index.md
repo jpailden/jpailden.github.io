@@ -3,8 +3,6 @@
 
 In this page you will find weekly exercises for Fall 2017.
 
-[What is R?](<http://www.siue.edu/~jpailde/Intro_to_R.html>)
-
 ***
 #### How to download R?
 
