@@ -1,7 +1,8 @@
 theme: jekyll-theme-cayman
 
 # Setup
-title:        SIUE Stat Classes Laboratory Page 
+title:        SIUE Stat Classes Laboratory Page
+subtitle:     Junvie Pailden
 baseurl:      ""
 paginate:     1
 
