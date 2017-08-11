@@ -2,7 +2,7 @@ Starting Fall 2017, Stat 244 and Stat 380 will be using R software for all labor
 
 [R](<https://cran.r-project.org/>) is an open source (free) software for statistical computing and graphics. More information on R in this [page](<http://www.siue.edu/~jpailde/Intro_to_R.html>).
 
-[RStudio](<https://www.rstudio.com/>) is a popular front-end for R, giving you a console, a scripting window, a graphics window, and an R workspace, among other options.
+[RStudio](<https://www.rstudio.com/>) is a popular front-end (IDE) for R giving you a console, a scripting window, a graphics window, and an R workspace, among other options.
 
 
 ***
