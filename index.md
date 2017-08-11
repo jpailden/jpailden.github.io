@@ -24,6 +24,7 @@ Starting Fall 2017, Stat 244 and Stat 380 will be using R software for all labor
 
 * This file type is called RMarkdown and is used widely to share and collaborate R outputs. More information is found on this [page](<http://rmarkdown.rstudio.com/articles_docx.html>).
 
+    - Open the file using RStudio.
     - Write your R code inside the [code chunks](<http://rmarkdown.rstudio.com/authoring_rcodechunks.html>) after each question.
     - Write your answer comments after the `#` sign.
     - To generate the word document output, click the button `Knit` and wait for the word document to appear.
