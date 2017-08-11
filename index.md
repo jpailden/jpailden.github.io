@@ -1,11 +1,11 @@
-Welcome to SIUE Statistical Classes Laboratory Page
+SIUE Statistical Classes Laboratory Page
 ==================================
 
-This page contains the weekly laboratory lessons and exercises for Fall 2017.
+Starting Fall 2017, Stat 244 and Stat 380 will be using R software for all laboratory lessons and exercises. This page contains the weekly laboratory materials. 
 
-> [R](<https://cran.r-project.org/>) is an open source (free) software for statistical computing and graphics. 
+[R](<https://cran.r-project.org/>) is an open source (free) software for statistical computing and graphics. 
 
-> [RStudio](<https://www.rstudio.com/>) is a popular front-end for R, giving you a console, a scripting window, a graphics window, and an R workspace, among other options.
+[RStudio](<https://www.rstudio.com/>) is a popular front-end for R, giving you a console, a scripting window, a graphics window, and an R workspace, among other options.
 
 
 ***
