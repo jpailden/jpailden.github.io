@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 
 # Setup
 title:        SIUE Stat Classes Laboratory Page
-subtitle:     Junvie Pailden
+tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
 paginate:     1
 
