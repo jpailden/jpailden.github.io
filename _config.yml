@@ -1,1 +1,19 @@
 theme: jekyll-theme-cayman
+
+# Setup
+title:        Southern Illinois University Edwardsville
+tagline:      Statistical Classes Laboratory Page
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Junvie Pailden
+  url:        http://www.siue.edu/~jpailde/ 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
