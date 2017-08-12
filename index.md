@@ -20,11 +20,11 @@ Starting Fall 2017, Stat 244 and Stat 380 will be using R software for all labor
 
 * Read the weekly lessons first and try out the R codes before answering the week's exercise.
 
-* Download the week's exercise file and open the file using RStudio. Right click the link and "Save as..." to your desktop. In some cases you might need to change the file extension to .rmd
+* Download the week's exercise file and open the file using RStudio. Right click the link and "Save as..." to your desktop. In some cases you might need to change the file extension to `.Rmd`.
 
-* This RMarkdown `(.rmd)` file type is used widely to share R codes and reproduce statistical results. More information is found on this [page](<http://rmarkdown.rstudio.com/articles_docx.html>).
+* This RMarkdown `(.Rmd)` file type is used widely to share R codes and reproduce statistical results. More information is found on this [page](<http://rmarkdown.rstudio.com/articles_docx.html>).
 
-    - Open the file using RStudio.
+    - Open the file `Week1-Exercise.Rmd` using RStudio.
     - Write your R code inside the [code chunks](<http://rmarkdown.rstudio.com/authoring_rcodechunks.html>) after each question.
     
         ```
