@@ -26,7 +26,16 @@ Starting Fall 2017, Stat 244 and Stat 380 will be using R software for all labor
 
     - Open the file using RStudio.
     - Write your R code inside the [code chunks](<http://rmarkdown.rstudio.com/authoring_rcodechunks.html>) after each question.
-    - Write your answer comments after the `#` sign.
+        ```{r, results='asis', echo=FALSE}
+            # Code Chunks
+            ```{r }
+            # start your R code after this line
+            
+            
+            # end your R code before this line
+            ```
+        ```
+    - Write your comments after the `#` sign.
     - To generate the word document output, click the button `Knit` and wait for the word document to appear.
     - RStudio will prompt you (only once) to install the `knitr` package.
 
