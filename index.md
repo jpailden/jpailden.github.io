@@ -27,13 +27,11 @@ Starting Fall 2017, Stat 244 and Stat 380 will be using R software for all labor
     - Open the file using RStudio.
     - Write your R code inside the [code chunks](<http://rmarkdown.rstudio.com/authoring_rcodechunks.html>) after each question.
     
-        ```{r, results='asis', echo=FALSE}
+        ```
             # Code Chunks
             ```{r }
-            # start your R code after this line
             
-            
-            # end your R code before this line
+ 
             ```
         ```
         
