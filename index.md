@@ -41,7 +41,7 @@ Starting Fall 2017, Stat 244 and Stat 380 will be using R software for all labor
     
     - To generate the word document output, click the button `Knit` and wait for the word document to appear.
     
-    - RStudio will prompt you (only once) to install the `knitr` package.
+    - RStudio will prompt you to install the `knitr` package.
     
 
 * Submit your completed laboratory exercise using Blackboard's Turnitin feature. Your Turnitin upload link is found on your [Blackboard](<https://bb.siue.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_35_1>) course shell under the Laboratory folder.
