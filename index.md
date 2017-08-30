@@ -1,9 +1,10 @@
-Starting Fall 2017, Stat 244 and Stat 380 will be using R software for all laboratory lessons and exercises. This page contains the weekly laboratory materials. 
+## Weekly Lesson and Exercise 
+
+[https://jpailden.github.io/rstatlab/](https://jpailden.github.io/rstatlab/)
 
 [R](<https://cran.r-project.org/>) is an open source (free) software for statistical computing and graphics. More information on R in this [page](<http://www.siue.edu/~jpailde/Intro_to_R.html>).
 
 [RStudio](<https://www.rstudio.com/>) is a popular front-end (IDE) for R giving you a console, a scripting window, a graphics window, and an R workspace, among other options.
-
 
 ***
 #### How to download R?
@@ -16,6 +17,3 @@ Starting Fall 2017, Stat 244 and Stat 380 will be using R software for all labor
 * On Windows and Mac, go to this [page](<https://www.rstudio.com/products/rstudio/download/>) and click `Download` under `RStudio Desktop Open Source License`.
 
 ***
-## Weekly Lesson and Exercise 
-
-[https://jpailden.github.io/rstatlab/](https://jpailden.github.io/rstatlab/)
