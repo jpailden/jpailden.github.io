@@ -1,6 +1,8 @@
 ## Weekly Lesson and Exercise 
 
-[https://jpailden.github.io/rstatlab/](https://jpailden.github.io/rstatlab/)
+SIUE Statistical Laboratory Lesson and Exercise are found on this link [https://jpailden.github.io/rstatlab/](https://jpailden.github.io/rstatlab/)
+
+***
 
 [R](<https://cran.r-project.org/>) is an open source (free) software for statistical computing and graphics. More information on R in this [page](<http://www.siue.edu/~jpailde/Intro_to_R.html>).
 
