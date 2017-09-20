@@ -1,3 +1,11 @@
+### Stat 244 and 380 Weekly Lesson and Exercise (Fall 2017)
+
+[Laboratory Lesson and Exercise](https://jpailden.github.io/rstatlab/)
+
+### Stat 589 Applied Mutivariate Analysis (Fall 2017)
+
+[Lecture Slides](https://jpailden.github.io/multivar/) 
+
 ***
 ### R Statistical Software
 
@@ -17,15 +25,6 @@
 
 ***
 
-### Stat 244 and 380 Weekly Lesson and Exercise (Fall 2017)
-
-[Laboratory Lesson and Exercise](https://jpailden.github.io/rstatlab/)
-
-### Stat 589 Applied Mutivariate Analysis (Fall 2017)
-
-[Lecture Slides](https://jpailden.github.io/multivar/) 
-
 
 Last edited by [Junvie Pailden](http://www.siue.edu/~jpailde/), September 2017.
 
-***
