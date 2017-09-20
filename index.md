@@ -1,7 +1,3 @@
-## Weekly Lesson and Exercise 
-
-SIUE Statistical Laboratory Lesson and Exercise are found on this link [https://jpailden.github.io/rstatlab/](https://jpailden.github.io/rstatlab/)
-
 ***
 
 [R](<https://cran.r-project.org/>) is an open source (free) software for statistical computing and graphics. More information on R in this [page](<http://www.siue.edu/~jpailde/Intro_to_R.html>).
@@ -19,3 +15,11 @@ SIUE Statistical Laboratory Lesson and Exercise are found on this link [https://
 * On Windows and Mac, go to this [page](<https://www.rstudio.com/products/rstudio/download/>) and click `Download` under `RStudio Desktop Open Source License`.
 
 ***
+
+### SIUE Laboratory Weekly Lesson and Exercise (Fall 2017)
+
+SIUE Statistical Laboratory Lesson and Exercise are found on this link [https://jpailden.github.io/rstatlab/](https://jpailden.github.io/rstatlab/)
+
+### Stat 589 - Applied Mutivariate Analysis (Fall 2017)
+
+[Lecture Slides](https://jpailden.github.io/multivar/) 
