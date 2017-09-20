@@ -25,7 +25,6 @@
 
 [Lecture Slides](https://jpailden.github.io/multivar/) 
 
-***
 
 Last edited by [Junvie Pailden](http://www.siue.edu/~jpailde/), September 2017.
 
